@@ -66,6 +66,18 @@ I don’t just code projects — I **ship ecosystems**.
 
 ---
 
+## 🏗 Systems I’ve Built & Scaled
+
+* **Realtime Chat & Calling** – Built with Node.js, Firebase, Agora.io, LiveKit.io
+* **AI-Integrated Features** – Automation, model inference, API integrations in production apps
+* **Offline-First Mobile Apps** – Flutter apps with local caching, sync, and real-time updates
+* **Full-Stack SaaS Platforms** – Using Laravel, CodeIgniter, Appwrite, Docker, cloud deployment pipelines
+* **Web Performance Optimization** – WordPress-based platforms with SEO and performance improvements
+
+> I design systems that don’t just work—they scale, survive, and delight users.
+
+---
+
 ## 🎓 Teaching & Mentorship
 
 I also train beginners and aspiring developers:
