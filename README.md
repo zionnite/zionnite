@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Nosakhare Atekha Endurance (aka **Zionnite**)
 
-🚀 **Senior Software Engineer | Mobile & Cross‑Platform Specialist**
+🚀 **Senior Software Engineer | Full-Stack & Cross‑Platform Specialist**
 📍 Nigeria · 🌍 Open to **Remote** roles
 
-I build **production‑ready mobile apps** that scale, ship fast, and solve real‑world problems. With **7+ years of experience**, I live at the intersection of **clean architecture**, **great UX**, and **impact‑driven technology**.
+I build **production-ready software systems** that scale, ship fast, and solve real-world problems. With **7+ years of experience**, I live at the intersection of **clean architecture**, **great UX**, and **impact-driven technology**.
 
 ---
 
@@ -18,10 +18,12 @@ while(problem.exists) {
 }
 ```
 
-* 📱 Craft high‑performance apps with **Flutter** & **React Native**
-* 🧩 Design scalable architectures (Firebase‑first, API‑driven)
-* 🎯 Turn vague ideas into **revenue‑ready products**
-* ⚡ Optimize apps for speed, offline‑first usage & real users
+* 📱 Craft high-performance apps with **Flutter** & **React Native**
+* 🖥 Build robust backend systems using **Node.js, Python, PHP**
+* 🧩 Design scalable architectures (Firebase, Appwrite, Realtime APIs)
+* 🤖 Integrate AI, automation, and realtime features for real-world impact
+* 🎯 Turn vague ideas into **revenue-ready products**
+* ⚡ Optimize apps for speed, offline-first usage & real users
 
 ---
 
@@ -30,14 +32,25 @@ while(problem.exists) {
 **Mobile & Frontend**
 Flutter · Dart · React Native · React · JavaScript · TypeScript
 
-**Backend & Cloud**
-Firebase · REST APIs · Node.js (integration‑focused)
+**Backend & Systems**
+Node.js · Python · C++ · PHP (Laravel, CodeIgniter) · REST APIs · Realtime Systems
+
+**AI & Data**
+AI-Driven System Design · Model & API Integration · Automation Scripts · Data Processing
+
+**Cloud, DevOps & Infrastructure**
+Docker · Firebase · Appwrite · CI/CD · Cloud Deployments
+
+**Realtime, Media & Communication**
+Agora.io · LiveKit.io · WebRTC-based Systems
 
 **Web & CMS**
 WordPress · SEO · Performance Optimization
 
-**Tools & Workflow**
-Git · GitHub · CI/CD · Agile · Clean Architecture
+**Tools & Engineering Practices**
+Git · GitHub · Clean Architecture · Scalable System Design · Agile
+
+> I’m not "just" a mobile developer — I’m a **full-stack, systems-thinking engineer** who chooses the *right tool* for the problem.
 
 ---
 
@@ -45,9 +58,9 @@ Git · GitHub · CI/CD · Agile · Clean Architecture
 
 * 🙏 **Prayer Buddy** – A Christian social platform pairing users with weekly prayer partners
 * 👗 **Zee Fashion** – Empowering African tailors & shoemakers through digital commerce
-* 🚚 **xApp Messenger** – Uber‑style errand & delivery platform with live tracking
+* 🚚 **xApp Messenger** – Uber-style errand & delivery platform with live tracking
 * 🧹 **Neatify** – Connecting verified university students to paid cleaning jobs
-* 📖 **Offline Bible App** – Fast, lightweight, and fully offline‑first
+* 📖 **Offline Bible App** – Fast, lightweight, and fully offline-first
 
 I don’t just code projects — I **ship ecosystems**.
 
@@ -57,7 +70,7 @@ I don’t just code projects — I **ship ecosystems**.
 
 I also train beginners and aspiring developers:
 
-* 🧑🏽‍🏫 8‑week **Web & SEO bootcamp** (HTML, CSS, JS, WordPress)
+* 🧑🏽‍🏫 8-week **Web & SEO bootcamp** (HTML, CSS, JS, WordPress)
 * 📚 Coding & Mobile Development tutoring (Superprof)
 
 > Teaching sharpens my engineering — and keeps my fundamentals lethal.
@@ -66,10 +79,10 @@ I also train beginners and aspiring developers:
 
 ## 💡 What Makes Me Different
 
-* ✅ Product‑minded engineer (not just feature‑driven)
+* ✅ Product-minded engineer (not just feature-driven)
 * ✅ Strong communication & documentation
 * ✅ Experience working with **startups, agencies & founders**
-* ✅ Passionate about **impact, faith‑driven tech & scalability**
+* ✅ Passionate about **impact, faith-driven tech & scalability**
 
 Hiring me means getting someone who **thinks like an owner**.
 
@@ -79,18 +92,18 @@ Hiring me means getting someone who **thinks like an owner**.
 
 > Quality > Quantity — but yes, I ship consistently.
 
-```
-// clean commits
-// readable PRs
-// production mindset
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zionnite\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zionnite\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Zionnite\&theme=tokyonight\&hide_border=true)
 
 ---
 
 ## 🤝 Let’s Build Something Serious
 
-* 💼 Open to **Senior / Lead Mobile Engineer** roles
-* 🌍 Remote‑friendly teams welcome
+* 💼 Open to **Senior / Lead Full-Stack Engineer** roles
+* 🌍 Remote-friendly teams welcome
 * 🧠 Complex problems encouraged
 
 📫 Reach me via GitHub or LinkedIn — or just star a repo and let’s talk 😉
