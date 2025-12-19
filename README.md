@@ -109,6 +109,8 @@ Hiring me means getting someone who **thinks like an owner**.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zionnite\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Zionnite\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zionnite&theme=tokyonight&hide_border=true)
+
 
 ---
 
